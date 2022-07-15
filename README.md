@@ -20,7 +20,7 @@ Player need to control the character and hit the bubble with missiles to win. Th
 
 3. Move left/right by using left/right arrow button on UI or left/right arrow button on keyboard (for browser).
 
-4. Fire Missile by using up arrow button on UI or space button on keyboard (for browser).
+4. Fire missile by using up arrow button on UI or space button on keyboard (for browser).
 
 ## Future Update
 Improve UI/UX and add more different difficulty levels
@@ -28,8 +28,8 @@ Improve UI/UX and add more different difficulty levels
 ## What did I get from this project?
 
 First attempt to
-- use a rounded rectangle - ClipRRect
-- use decoration type
+- use a rounded rectangle - ClipRRect()
+- use decoration type - BoxDecoration()
 - use Icons data type - Icons.arrow_upward
 
 More understanding about 
