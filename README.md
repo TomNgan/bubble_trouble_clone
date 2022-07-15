@@ -1,4 +1,4 @@
-# Bubble Trouble
+# Bubble Trouble Flutter App
 
 Self-study project 2 - My first Flutter game Bubble Trouble Game
 
