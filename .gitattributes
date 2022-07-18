@@ -1,9 +1,11 @@
-*.cpp linguist-detectable=false
-*.html linguist-detectable=true
-*.c linguist-detectable=false
-*.swift linguist-detectable=false
-*.dart linguist-detectable=true
-Makefile linguist-generated=true
+ *.* linguist-language=dart
+
+# *.cpp linguist-detectable=false
+# *.html linguist-detectable=true
+# *.c linguist-detectable=false
+# *.swift linguist-detectable=false
+# *.dart linguist-detectable=true
+# Makefile linguist-generated=true
 
 
 # # Auto detect text files and perform LF normalization
